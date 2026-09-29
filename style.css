@@ -1,12 +1,12 @@
 body {
     font-family:'Courier New', Courier, monospace;
     margin: 0;
-    background: #f4f4f4;
-    color: #333;
+    background: #242424;
+    color: #ffffff;
 }
 
 header {
-    background: #24292e;
+    background: #7a2052;
     color: white;
     text-align: center;
     padding: 2rem;
