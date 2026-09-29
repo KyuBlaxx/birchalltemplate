@@ -19,7 +19,7 @@ nav {
 }
 
 nav a {
-    color: white;
+    color: #242424;
     text-decoration: none;
     margin: 0 15px;
 }
@@ -31,7 +31,7 @@ main {
 }
 
 .card {
-    background: white;
+    background: #242424;
     padding: 1rem;
     margin-bottom: 1rem;
     border-radius: 5px;
@@ -40,5 +40,5 @@ main {
 footer {
     text-align: center;
     padding: 1rem;
-    background: #ddd;
+    background: #242424;
 }
