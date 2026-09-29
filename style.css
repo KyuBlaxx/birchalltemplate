@@ -31,7 +31,7 @@ main {
 }
 
 .card {
-    background: #242424;
+    background: #4b4b4b;
     padding: 1rem;
     margin-bottom: 1rem;
     border-radius: 5px;
@@ -40,5 +40,5 @@ main {
 footer {
     text-align: center;
     padding: 1rem;
-    background: #242424;
+    background: #161616;
 }
